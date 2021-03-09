@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 #### - ⚡ Full Stack Web Developer by Recode Pro
 #### - 🔭Available for New Opportunities
 
+![Taina-Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taina-Ferreira&show_icons=true)
+
 
