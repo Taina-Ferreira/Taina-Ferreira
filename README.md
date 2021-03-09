@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### - 🔭 Atualmente aprendendo JavaScript
-###### - ⚡ Full Stack Web Developer pela Recode Pro
-###### - :computer: Em busca de oportunidades para desenvolver meus conhecimentos.
+#### - 🔭 Atualmente aprendendo JavaScript
+#### - ⚡ Full Stack Web Developer pela Recode Pro
+#### - :computer: Em busca de oportunidades para desenvolver meus conhecimentos.
