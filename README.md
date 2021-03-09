@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainafrodrigues/)](https://www.linkedin.com/in/tainafrodrigues/)
 
 ### About me
-# I'm a Full Stack Web Developer Student.
+### I'm a Full Stack Web Developer Student.
 
 
 <!--
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# - 🔭 Atualmente aprendendo JavaScript
-# - ⚡ Full Stack Web Developer pela Recode Pro
-# - :computer: Em busca de oportunidades para desenvolver meus conhecimentos.
+### - 🔭 Atualmente aprendendo JavaScript
+### - ⚡ Full Stack Web Developer pela Recode Pro
+### - :computer: Em busca de oportunidades para desenvolver meus conhecimentos.
