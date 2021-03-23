@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### - :computer: I'm currently learning JavaScript    
-#### - ⚡ Full Stack Web Developer by Recode Pro
-#### - 🔭Available for New Opportunities
+- :computer: I'm currently learning JavaScript    
+- ⚡ Full Stack Web Developer by Recode Pro
+- 🔭Available for New Opportunities
 
 ![Taina-Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taina-Ferreira&show_icons=true)
 
