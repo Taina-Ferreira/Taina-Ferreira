@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainafrodrigues/)](https://www.linkedin.com/in/tainafrodrigues/)
 
 ### About me
-### I'm a Front end web developer student.
+### I'm a FronEnd web developer student.
 
 
 <!--
