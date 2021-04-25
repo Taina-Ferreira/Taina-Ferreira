@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - :computer: I'm currently learning AngularJS   
 - ⚡ Full Stack Web Developer by Recode Pro
 -  :office: Assistant FrontEnd Developer at Órama
-- 🔭Available for New Opportunities
 
 ![Taina-Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taina-Ferreira&show_icons=true)
 
