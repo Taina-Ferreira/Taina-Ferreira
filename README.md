@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :computer: I'm currently learning AngularJS   
+- :computer: I'm currently learning Angular  
 - ⚡ Full Stack Web Developer by Recode Pro
--  :office: Assistant FrontEnd Developer at Órama
 
 ![Taina-Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taina-Ferreira&show_icons=true)
 
